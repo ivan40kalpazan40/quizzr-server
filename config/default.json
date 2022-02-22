@@ -1,0 +1,5 @@
+{
+  "mongoURI": "mongodb+srv://ivan:1234@cluster0.6zo9e.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "saltRounds": 10,
+  "JWT_SECRET": "HWhk9=y'I/M))w|qIRV;5d>B|F[6xVa32bIVdPW#p`PnA[cnE:Tp,=Bu,b{1^PR"
+}
